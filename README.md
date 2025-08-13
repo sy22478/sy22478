@@ -9,12 +9,19 @@ Welcome to my GitHub profile! I am a passionate data scientist with experience i
 ## Skills & Technologies
 
 - **Programming Languages:** Python, C++, JavaScript, HTML, CSS
+
 - **Tools & Technologies:** Jupyter Notebook, VS Code, Google Colab, n8n, V0, OpenAI Agent SDK, Streamlit, FastMCP
+
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras, XGBoost, CatBoost, LightGBM, Optuna, Decision Trees, Ensemble Learning, Hyperparameter Tuning, Predictive Modeling, Classification, Regression, Model Interpretation, Feature Engineering, Handling Class Imbalance
+
 - **Data Manipulation:** Pandas, NumPy, PySpark
+
 - **Visualization:** Matplotlib, Seaborn, Plotly
+
 - **Database:** MySQL, MongoDB, PostgreSQL
+
 - **Version Control:** Git, GitHub
+
 - **AI Agents & LLMs:** LangChain, Retrieval-Augmented Generation (RAG), Prompt Engineering, Function Calling, Memory Management, Agent Workflows, Model Context Protocol
 
 ---
