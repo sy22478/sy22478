@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I am a passionate data scientist with experience i
 
 **Personal Loan Campaign Optimization - Banking Analytics**
 - Built advanced customer segmentation model achieving 84.56% recall and 92.65% precision on severely imbalanced dataset (9.6% positive class), enabling precise identification of loan-eligible customers for AllLife Bank.
-- Developed interpretable decision tree rules through post-pruning optimization, creating clear business logic that marketing teams can implement: "Income > $92.5K + Family <u><</u> -> Very High likelihood".
+- Developed interpretable decision tree rules through post-pruning optimization, creating clear business logic that marketing teams can implement: "Income > $92.5K + Family <ins><</ins> -> Very High likelihood".
 - Generated customer-backwards segmentation strategies that maximize campaign ROI by identifying high-value customer segments while minimizing outreach costs and false positive targeting.
 
 **FoodHub: Enhancing Restaurant Experience with Data Science**
