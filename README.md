@@ -1,6 +1,5 @@
 # Sonu Yadav
 ## Data Scientist | Machine Learning Engineer | AI Agent Engineer | AI Enthusiast
-
 Welcome to my GitHub profile! I am a passionate data scientist with experience in leveraging advanced analytics, statistical modeling, and machine learning to solve real-world business challenges. With a solid foundation in mathematics and programming, I strive to drive data-driven decision-making and deliver impactful solutions.
 ---
 ## Skills & Technologies
@@ -13,7 +12,6 @@ Welcome to my GitHub profile! I am a passionate data scientist with experience i
 - **Version Control:** Git, GitHub
 - **AI Agents & LLMs:** LangChain, Retrieval-Augmented Generation (RAG), Prompt Engineering, Function Calling, Memory Management, Agent Workflows, Model Context Protocol
 ---
-
 **Project Overview**
 
 **ReneWind - Wind Turbine Predictive Maintenance System**
@@ -38,3 +36,17 @@ Welcome to my GitHub profile! I am a passionate data scientist with experience i
 - Weekly summarization and actionable investment insights
 - Achieved 0.88 ensemble accuracy on historical news/stock data
 - [View repository](https://github.com/sy22478/Stock-Market-News-Sentiment-Analysis-and-Summarization)
+
+**HealthMate - Personal Health Monitoring Platform**
+- Developed an intelligent health dashboard integrating wearable/device data, nutrition logs, and medical history for personalized health insights
+- Implemented machine learning algorithms for risk prediction (heart disease, diabetes) and proactive health recommendations
+- Real-time alerts, health trend visualization, and seamless integration with popular wearables (Fitbit, Apple Health, Google Fit)
+- Enables patients, clinicians, and caregivers to monitor key indicators and receive contextual guidance
+- [View repository](https://github.com/sy22478/HealthMate)
+
+**Resume Tailoring Agent - Automated Resume Optimization Tool**
+- AI-powered agent that customizes resumes for job descriptions using NLP-driven matching and bullet generation
+- Utilizes vector similarity, skill/entity extraction, and action-oriented achievement phrasing (XYZ formula)
+- Automated formatting, margin, and one-page optimization for recruiter readability
+- Integrates with Google Docs, PDFs, and LinkedIn profile imports for streamlined workflow
+- [View repository](https://github.com/sy22478/Resume-Tailoring-Agent)
