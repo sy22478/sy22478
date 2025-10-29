@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I am a passionate data scientist with experience i
 - [View repository](https://github.com/sy22478/Stock-Market-News-Sentiment-Analysis-and-Summarization)
 
 **HealthMate - Personal Health Monitoring Platform**
-- Developed an intelligent health dashboard integrating wearable/device data, nutrition logs, and medical history for personalized health insights
+- Developed an intelligent health dashboard integrating wearable/device data, nutrition logs, and medical health insights
 - Implemented machine learning algorithms for risk prediction (heart disease, diabetes) and proactive health recommendations
 - Real-time alerts, health trend visualization, and seamless integration with popular wearables (Fitbit, Apple Health, Google Fit)
 - Enables patients, clinicians, and caregivers to monitor key indicators and receive contextual guidance
